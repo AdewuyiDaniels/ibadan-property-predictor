@@ -1,0 +1,971 @@
+Property_Type,Bedrooms,Bathrooms,Location,Price
+House,1.0,1.0,Samonda,3500000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,3.0,1.0,Ibadan,100000000
+Bungalow,3.0,1.0,Ibadan,18000000
+Duplex,5.0,1.0,Akobo,210000000
+Bungalow,4.0,1.0,Akala Express,45000000
+Duplex,4.0,1.0,Basorun,170000000
+Bungalow,4.0,1.0,Idishin,87125000
+Bungalow,4.0,1.0,Akala Express,85000000
+Duplex,4.0,1.0,Akala Express,200000000
+Duplex,3.0,1.0,Ibadan,120000000
+Flat,3.0,1.0,Agbowo,50000000
+Bungalow,8.0,1.0,Ibadan Polytechnic/University,14000000
+Duplex,4.0,1.0,Jericho,170000000
+Duplex,4.0,1.0,Oluyole Estate,125000000
+Duplex,3.0,1.0,Ibadan,120000000
+Other,4.0,1.0,Ajibode,12000000
+Duplex,4.0,1.0,Jericho,350000000
+Bungalow,5.0,1.0,Iyanganku,500000000
+Duplex,4.0,1.0,Bodija,250000000
+Duplex,4.0,1.0,Jericho,180000000
+Bungalow,3.0,1.0,Ibadan,30000000
+House,16.0,1.0,Ibadan Polytechnic/University,83000000
+Duplex,4.0,1.0,Ibadan,350000000
+Duplex,4.0,1.0,Ologuneru,60000000
+Bungalow,4.0,1.0,Akobo,20000000
+Bungalow,3.0,1.0,Ologuneru,60900000
+Flat,4.0,1.0,Ojoo,40000000
+Bungalow,2.0,1.0,Ologuneru,50900000
+Flat,3.0,1.0,Alakia,140000000
+Duplex,4.0,1.0,Bodija,270000000
+Bungalow,3.0,1.0,Eleyele,65000000
+Flat,4.0,1.0,Ibadan,90000000
+Duplex,4.0,1.0,Ibadan,270000000
+Bungalow,4.0,1.0,Ologuneru,35000000
+Bungalow,5.0,1.0,Ibadan,28500000
+Other,1.0,1.0,Alakia,7000000
+Flat,3.0,1.0,Alakia,35000000
+Flat,2.0,1.0,Ibadan,65000000
+Flat,3.0,1.0,Iwo Road,55000000
+Duplex,3.0,1.0,Ibadan,135000000
+Bungalow,3.0,1.0,Ibadan,22000000
+Duplex,4.0,1.0,Ibadan,180000000
+Bungalow,4.0,1.0,Ibadan,70000000
+Bungalow,3.0,1.0,Apata,33000000
+Bungalow,3.0,1.0,Ibadan,20000000
+Duplex,5.0,1.0,Agodi,200000000
+Flat,16.0,1.0,Agodi,35000000
+Duplex,5.0,1.0,Jericho,175000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Duplex,4.0,1.0,Apata,92000000
+Duplex,6.0,1.0,Ibadan,55000000
+Duplex,3.0,1.0,Ibadan,300000000
+Duplex,4.0,1.0,Idishin,170000000
+Duplex,4.0,1.0,Ibadan,160000000
+Bungalow,4.0,1.0,Ibadan,12000000
+Duplex,5.0,1.0,Ibadan,120000000
+House,3.0,1.0,Ibadan,100000000
+Bungalow,3.0,1.0,Ologuneru,60000000
+Duplex,3.0,1.0,Idishin,50000000
+Duplex,4.0,1.0,Ibadan,300000000
+Bungalow,3.0,1.0,Ibadan,25000000
+Bungalow,4.0,1.0,Akala Express,8500000
+Bungalow,3.0,1.0,Ibadan,35000000
+Duplex,4.0,1.0,Akobo,70000000
+Other,1.0,1.0,Agbowo,150000000
+Duplex,4.0,1.0,Ologuneru,85000000
+Duplex,4.0,1.0,Ibadan,180000000
+Other,7.0,1.0,Ologuneru,65000000
+House,6.0,1.0,Ibadan,65000000
+Bungalow,3.0,1.0,Akala Express,65000000
+Duplex,2.0,1.0,Alakia,160000000
+Duplex,4.0,1.0,Oluyole Estate,100000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Flat,2.0,1.0,Akobo,75000000
+House,18.0,1.0,Apata,38000000
+Bungalow,3.0,1.0,Bodija,80000000
+Duplex,8.0,1.0,Bodija,110000000
+House,5.0,1.0,Oluyole Estate,465000000
+Duplex,4.0,1.0,Oluyole Estate,160000000
+Bungalow,4.0,1.0,Basorun,160000000
+Duplex,4.0,1.0,Bodija,165000000
+Duplex,4.0,1.0,Jericho,330000000
+Duplex,3.0,1.0,Ibadan,160000000
+Duplex,5.0,1.0,Akala Express,170000000
+Bungalow,6.0,1.0,Iwo Road,20000000
+Duplex,4.0,1.0,Akala Express,170000000
+Duplex,4.0,1.0,Jericho,350000000
+Bungalow,3.0,1.0,Oluyole Estate,75000000
+Duplex,4.0,5.0,Akala Express,125000000
+Duplex,4.0,1.0,Akobo,170000000
+Bungalow,4.0,1.0,Ibadan,38000000
+Flat,1.0,1.0,Bodija,800000000
+Duplex,4.0,1.0,Akala Express,60000000
+Bungalow,3.0,1.0,Jericho,75000000
+Duplex,4.0,1.0,Basorun,170000000
+Bungalow,3.0,1.0,Ibadan,32000000
+Flat,4.0,1.0,Ojoo,40000000
+Bungalow,2.0,1.0,Ibadan,12000000
+Flat,2.0,1.0,Iwo Road,9000000
+Duplex,4.0,1.0,Akobo,180000000
+Bungalow,4.0,1.0,Akobo,70000000
+Duplex,4.0,1.0,Akobo,260000000
+Duplex,4.0,1.0,Oluyole Estate,120000000
+Bungalow,3.0,1.0,Jericho,70000000
+Bungalow,3.0,1.0,Ologuneru,60000000
+Bungalow,3.0,1.0,Ibadan,29000000
+Bungalow,3.0,1.0,Eleyele,60000000
+Duplex,5.0,1.0,Akobo,185000000
+Duplex,4.0,1.0,Bodija,240000000
+Duplex,4.0,1.0,Bodija,170000000
+Bungalow,3.0,1.0,Akobo,125000000
+Duplex,4.0,1.0,Bodija,150000000
+Duplex,4.0,1.0,Ibadan,130000000
+Other,2.0,1.0,Iwo Road,8000000
+Bungalow,4.0,1.0,Akobo,75000000
+Bungalow,5.0,1.0,Old Bodija,120000000
+Bungalow,4.0,5.0,Akobo,70000000
+Bungalow,3.0,1.0,Ibadan,13000000
+Duplex,6.0,1.0,Alalubosa,300000000
+Duplex,4.0,1.0,Oluyole Estate,310000000
+Other,7.0,1.0,Ologuneru,65000000
+Duplex,5.0,1.0,Ologuneru,150000000
+Flat,12.0,1.0,Akala Express,85000000
+Duplex,4.0,1.0,Bodija,200000000
+Bungalow,2.0,1.0,Akala Express,53000000
+Bungalow,3.0,1.0,Akobo,30000000
+Duplex,5.0,1.0,Akobo,190000000
+Flat,2.0,1.0,Ibadan,45000000
+Bungalow,2.0,1.0,Ibadan,30000000
+Bungalow,3.0,1.0,Akala Express,70000000
+Duplex,4.0,1.0,Alalubosa,100000000
+House,4.0,1.0,Akobo,310000000
+Duplex,5.0,1.0,Oluyole Estate,290000000
+Flat,5.0,1.0,Ojoo,16000000
+Duplex,4.0,1.0,Akobo,180000000
+Bungalow,4.0,1.0,Soka,30000000
+Flat,3.0,1.0,Akala Express,96000000
+Bungalow,4.0,1.0,Ibadan,20000000
+Bungalow,3.0,4.0,Akala Express,80000000
+Bungalow,3.0,1.0,Iwo Road,35000000
+Flat,12.0,1.0,Agbowo,50000000
+Duplex,4.0,1.0,Akobo,185000000
+Duplex,3.0,1.0,Ibadan,150000000
+Duplex,4.0,1.0,Ibadan,350000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Other,11.0,1.0,Agodi,650000000
+Duplex,5.0,1.0,Basorun,75000000
+Bungalow,3.0,1.0,Idishin,75000000
+Duplex,4.0,1.0,Akobo,285000000
+Duplex,4.0,1.0,Akobo,220000000
+Bungalow,3.0,1.0,Idishin,100000000
+Duplex,5.0,1.0,Ibadan,430000000
+Bungalow,2.0,1.0,Ibadan,30000000
+Flat,18.0,1.0,Iwo Road,90000000
+Flat,8.0,1.0,Agbowo,50000000
+Duplex,4.0,1.0,Jericho,200000000
+Duplex,4.0,1.0,Akala Express,150000000
+Bungalow,2.0,1.0,Ibadan,35000000
+Bungalow,4.0,1.0,Odo Ona,15000000
+Bungalow,4.0,1.0,Akobo,68000000
+Bungalow,4.0,1.0,Moniya,8500000
+Duplex,4.0,1.0,Akobo,180000000
+Duplex,3.0,1.0,Akala Express,180000000
+Duplex,4.0,1.0,Oluyole Estate,180000000
+Duplex,3.0,1.0,Adamasingba,105000000
+Bungalow,2.0,1.0,Jericho,45000000
+Duplex,4.0,1.0,Ibadan,230000000
+Bungalow,2.0,1.0,Ibadan,5000000
+Bungalow,4.0,1.0,Akobo,20000000
+Bungalow,3.0,1.0,Soka,22000000
+Bungalow,3.0,1.0,Eleyele,65000000
+Duplex,4.0,1.0,Basorun,220000000
+Bungalow,3.0,1.0,Ibadan,55000000
+Bungalow,5.0,1.0,Ibadan,60000000
+Duplex,4.0,1.0,Akobo,170000000
+Flat,4.0,1.0,Jericho,85000000
+Duplex,2.0,1.0,Oluyole Estate,90000000
+Duplex,5.0,1.0,Akobo,200000000
+Flat,5.0,1.0,Ibadan,10000000
+Duplex,4.0,1.0,Oluyole Estate,270000000
+Duplex,4.0,1.0,Basorun,170000000
+Duplex,5.0,1.0,Akobo,185000000
+Duplex,4.0,1.0,Akobo,120000000
+Duplex,4.0,1.0,Oluyole Estate,160000000
+Duplex,4.0,1.0,Oluyole Estate,260000000
+Flat,3.0,1.0,Moniya,40000000
+Bungalow,6.0,1.0,Ojoo,25000000
+Duplex,4.0,1.0,Bodija,150000000
+Flat,3.0,1.0,Ibadan Polytechnic/University,35000000
+Duplex,3.0,1.0,Ibadan,75000000
+Duplex,3.0,1.0,Oluyole Estate,150000000
+Bungalow,3.0,1.0,Basorun,65000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Duplex,5.0,1.0,Ologuneru,150000000
+Bungalow,4.0,1.0,Akala Express,20000000
+House,4.0,1.0,Rind Road,70000000
+Flat,3.0,1.0,Ibadan,115000000
+Bungalow,3.0,1.0,Eleyele,60000000
+Duplex,4.0,1.0,Agodi,180000000
+Other,2.0,1.0,Rind Road,70000000
+Bungalow,3.0,4.0,Akala Express,80000000
+Flat,3.0,1.0,Rind Road,150000000
+Other,12.0,1.0,Ibadan,90000000
+Duplex,5.0,1.0,Oluyole Estate,240000000
+House,4.0,5.0,Akobo,70000000
+Bungalow,3.0,1.0,Akala Express,77000000
+Duplex,4.0,1.0,Jericho,160000000
+Duplex,5.0,1.0,Idishin,165000000
+Duplex,4.0,1.0,Akala Express,125000000
+Bungalow,3.0,1.0,Eleyele,20000000
+Duplex,5.0,1.0,Samonda,350000000
+Duplex,4.0,1.0,Jericho,180000000
+Flat,8.0,1.0,Bodija,23000000
+Duplex,8.0,1.0,Ojoo,60000000
+Duplex,4.0,1.0,Akobo,120000000
+Duplex,3.0,1.0,Ibadan,270000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Bungalow,4.0,1.0,Akobo,75000000
+Flat,12.0,1.0,Akobo,80000000
+Duplex,4.0,1.0,Ologuneru,60000000
+Bungalow,3.0,1.0,Odo Ona,14000000
+House,9.0,1.0,Akala Express,70000000
+Duplex,5.0,1.0,Ibadan,350000000
+Duplex,4.0,1.0,Ibadan,230000000
+Other,10.0,1.0,Agodi,800000000
+Duplex,4.0,1.0,Bodija,75000000
+Other,20.0,1.0,Bodija,200000000
+Flat,3.0,1.0,Odo Ona,55000000
+Duplex,4.0,1.0,Oluyole Estate,230000000
+House,4.0,1.0,Iwo Road,33000000
+Duplex,4.0,1.0,Oluyole Estate,400000000
+Duplex,4.0,1.0,Akobo,130000000
+Flat,15.0,1.0,Ologuneru,100000000
+Bungalow,5.0,1.0,Akobo,80000000
+Duplex,4.0,1.0,Akobo,130000000
+Duplex,4.0,1.0,Iyanganku,150000000
+Duplex,3.0,1.0,Agodi,140000000
+Bungalow,3.0,1.0,Ologuneru,18000000
+Duplex,4.0,1.0,Akobo,130000000
+Duplex,4.0,1.0,Oluyole Estate,250000000
+Flat,4.0,1.0,Ojoo,40000000
+Bungalow,5.0,1.0,Akobo,150000000
+Duplex,4.0,1.0,Ibadan,450000000
+Bungalow,4.0,1.0,Akala Express,60000000
+Duplex,5.0,1.0,Akobo,200000000
+Duplex,4.0,1.0,Rind Road,135000000
+Duplex,4.0,1.0,Jericho,180000000
+Flat,12.0,1.0,Agodi,90000000
+Flat,8.0,1.0,Ibadan,60000000
+Duplex,5.0,1.0,Ologuneru,150000000
+Duplex,4.0,1.0,Ibadan,200000000
+Duplex,5.0,1.0,Agodi,220000000
+Flat,18.0,1.0,Agbowo,95000000
+House,5.0,1.0,Agodi,500000000
+Bungalow,4.0,1.0,Moniya,55000000
+House,8.0,1.0,Agbowo,25000000
+Duplex,4.0,1.0,Akala Express,180000000
+Duplex,5.0,1.0,Ibadan,450000000
+Bungalow,6.0,1.0,Eleyele,45000000
+Duplex,5.0,1.0,Akobo,140000000
+Duplex,4.0,1.0,Akobo,450000000
+Flat,3.0,1.0,Idishin,150000000
+Duplex,5.0,1.0,Oluyole Estate,130000000
+Flat,1.0,1.0,Ibadan,100000000
+Other,7.0,1.0,Ologuneru,65000000
+Flat,3.0,1.0,Akala Express,90000000
+Duplex,5.0,1.0,Akobo,380000000
+Duplex,5.0,1.0,Samonda,650000000
+Duplex,4.0,1.0,Ibadan,195000000
+Flat,6.0,1.0,Ojoo,60000000
+Duplex,6.0,1.0,Akobo,135000000
+Duplex,4.0,1.0,Ibadan,20000000
+Bungalow,2.0,1.0,Moniya,75000000
+House,2.0,1.0,Akobo,100000000
+Bungalow,10.0,1.0,Ibadan,50000000
+Duplex,4.0,1.0,Akobo,200000000
+Bungalow,4.0,1.0,Akala Express,55000000
+Duplex,5.0,1.0,Agodi,220000000
+Bungalow,4.0,1.0,Akobo,220000000
+Bungalow,3.0,1.0,Odo Oba,12000000
+Bungalow,3.0,1.0,Ibadan,45000000
+Duplex,4.0,1.0,Akobo,260000000
+Flat,3.0,1.0,Ojoo,25000000
+Duplex,4.0,1.0,Akobo,230000000
+Duplex,4.0,1.0,Bodija,175000000
+Duplex,4.0,1.0,Akobo,120000000
+Bungalow,3.0,1.0,Apata,30000000
+Duplex,4.0,1.0,Akobo,185000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,8.0,1.0,Bodija,450000000
+House,3.0,1.0,Akala Express,35000000
+Duplex,5.0,1.0,Oluyole Estate,310000000
+Bungalow,8.0,1.0,Agbowo,10000000
+Flat,4.0,1.0,Akobo,150000000
+Bungalow,3.0,1.0,Ibadan,55000000
+Duplex,5.0,1.0,Akala Express,135000000
+Duplex,6.0,1.0,Ologuneru,50000000
+Duplex,7.0,1.0,Akala Express,80000000
+Flat,3.0,1.0,Moniya,30000000
+Duplex,4.0,1.0,Oluyole Estate,385000000
+Duplex,4.0,1.0,Akobo,185000000
+Flat,14.0,1.0,Agodi,50000000
+Duplex,5.0,1.0,Eleyele,85000000
+Duplex,4.0,1.0,Akobo,180000000
+Bungalow,3.0,1.0,Ibadan,28000000
+Bungalow,3.0,1.0,Akala Express,50000000
+Duplex,3.0,1.0,Jericho,180000000
+Flat,18.0,1.0,Agbowo,55000000
+Duplex,4.0,1.0,Akala Express,185000000
+Bungalow,4.0,1.0,Ajibode,22000000
+House,8.0,1.0,Ibadan,22000000
+Duplex,5.0,1.0,Bodija,90000000
+Bungalow,4.0,1.0,Akobo,20000000
+Bungalow,4.0,4.0,Alakia,21000000
+Duplex,6.0,1.0,Akala Express,65000000
+Bungalow,3.0,1.0,Akobo,55000000
+Duplex,4.0,1.0,Akala Express,125000000
+Duplex,4.0,1.0,Oluyole Estate,220000000
+Bungalow,2.0,1.0,Ojoo,110000000
+House,12.0,1.0,Agbowo,25000000
+Duplex,4.0,1.0,Bodija,200000000
+Flat,2.0,1.0,Akala Express,85000000
+Bungalow,6.0,1.0,Agodi,250000000
+Flat,2.0,1.0,Akala Express,50000000
+Duplex,4.0,1.0,Bodija,170000000
+Duplex,4.0,1.0,Oluyole Estate,330000000
+Flat,7.0,1.0,Jericho,250000000
+Duplex,5.0,1.0,Bodija,260000000
+Duplex,4.0,1.0,Basorun,175000000
+House,10.0,1.0,Rind Road,50000000
+House,10.0,1.0,Apata,35000000
+Duplex,4.0,1.0,Akala Express,90000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Duplex,4.0,1.0,Akobo,250000000
+Flat,16.0,1.0,Ojoo,80000000
+Duplex,4.0,1.0,Basorun,200000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Bungalow,4.0,1.0,Akobo,83000000
+Duplex,4.0,1.0,Akobo,180000000
+Duplex,4.0,1.0,Akobo,175000000
+Duplex,4.0,1.0,Bodija,220000000
+Bungalow,3.0,1.0,Akala Express,70000000
+Duplex,4.0,1.0,Bodija,220000000
+Bungalow,4.0,5.0,Akobo,70000000
+Duplex,5.0,1.0,Akobo,50000000
+Bungalow,4.0,5.0,Akobo,70000000
+House,2.0,1.0,Apata,45000000
+Other,18.0,1.0,Ibadan,55000000
+Duplex,3.0,1.0,Akala Express,150000000
+Duplex,4.0,1.0,Jericho,200000000
+Duplex,3.0,1.0,Akala Express,220000000
+Duplex,4.0,1.0,Akobo,220000000
+Bungalow,4.0,1.0,Akobo,40000000
+Duplex,2.0,1.0,Akobo,100000000
+Duplex,5.0,1.0,Oluyole Estate,285000000
+Duplex,5.0,1.0,Ibadan,350000000
+Duplex,4.0,1.0,Moniya,270000000
+Duplex,4.0,1.0,Oluyole Estate,220000000
+Duplex,5.0,1.0,Akobo,190000000
+Bungalow,3.0,1.0,Basorun,27000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Duplex,5.0,1.0,Ologuneru,110000000
+Duplex,4.0,1.0,Jericho,135000000
+Duplex,4.0,1.0,Idishin,150000000
+Duplex,5.0,1.0,Ibadan,310000000
+Flat,4.0,1.0,Ologuneru,100000000
+Duplex,4.0,1.0,Oluyole Estate,310000000
+Duplex,5.0,1.0,Akobo,270000000
+Bungalow,3.0,1.0,Idishin,100000000
+Bungalow,5.0,1.0,Iwo Road,25000000
+Duplex,5.0,1.0,Oluyole Estate,300000000
+Duplex,4.0,1.0,Akobo,350000000
+House,9.0,1.0,Apata,65000000
+House,3.0,1.0,Ologuneru,60000000
+Duplex,4.0,1.0,Bodija,250000000
+Bungalow,3.0,1.0,Olomi,30000000
+Duplex,5.0,1.0,Akobo,430000000
+Duplex,4.0,1.0,Akobo,200000000
+Bungalow,4.0,1.0,Akobo,55000000
+Bungalow,3.0,1.0,Ibadan,27000000
+Duplex,5.0,1.0,Eleyele,85000000
+Bungalow,3.0,1.0,Moniya,75000000
+Bungalow,4.0,1.0,Dugbe (Onireke),500000000
+Duplex,4.0,1.0,Akobo,185000000
+Flat,4.0,1.0,Ojoo,40000000
+Duplex,4.0,1.0,Bodija,230000000
+Duplex,4.0,1.0,Oluyole Estate,200000000
+Duplex,3.0,1.0,Ibadan,110000000
+Duplex,6.0,1.0,Akala Express,120000000
+Duplex,4.0,1.0,Oluyole Estate,300000000
+Bungalow,3.0,1.0,Ajibode,38000000
+Duplex,5.0,1.0,Agodi,200000000
+Duplex,4.0,1.0,Alalubosa,200000000
+Flat,3.0,1.0,Akobo,18000000
+Bungalow,3.0,1.0,Apata,35000000
+House,2.0,1.0,Akala Express,55000000
+Bungalow,12.0,1.0,Iwo Road,12000000
+Duplex,4.0,1.0,Akobo,190000000
+Duplex,4.0,1.0,Akobo,150000000
+Other,3.0,1.0,Ibadan,17000000
+Flat,6.0,1.0,Ojoo,60000000
+Bungalow,3.0,1.0,Idishin,50000000
+Duplex,6.0,1.0,Alalubosa,130000000
+Duplex,4.0,1.0,Akobo,170000000
+Duplex,4.0,1.0,Bodija,200000000
+Flat,20.0,1.0,Agbowo,75000000
+Duplex,7.0,1.0,Eleyele,300000000
+Duplex,4.0,1.0,Jericho,200000000
+Other,7.0,1.0,Ologuneru,65000000
+Duplex,4.0,1.0,Akobo,130000000
+Duplex,5.0,1.0,Ibadan,85000000
+House,3.0,1.0,Oluyole Estate,280000000
+Flat,2.0,1.0,Akala Express,170000000
+Duplex,5.0,1.0,Samonda,280000000
+Duplex,3.0,1.0,Akobo,160000000
+Duplex,5.0,1.0,Oluyole Estate,180000000
+House,6.0,1.0,Iwo Road,32000000
+Flat,2.0,1.0,Akala Express,65000000
+Duplex,5.0,1.0,Iyanganku,150000000
+Duplex,4.0,1.0,Oluyole Estate,180000000
+Duplex,4.0,1.0,Bodija,180000000
+Other,8.0,1.0,Akala Express,60000000
+Duplex,4.0,1.0,Akobo,160000000
+Duplex,6.0,1.0,Agodi,140000000
+Bungalow,3.0,1.0,Basorun,40000000
+House,10.0,1.0,Oluyole Estate,75000000
+Duplex,4.0,1.0,Oluyole Estate,220000000
+Duplex,5.0,1.0,Agodi,200000000
+Duplex,4.0,1.0,Bodija,200000000
+Duplex,4.0,1.0,Akobo,175000000
+Bungalow,3.0,1.0,Eleyele,60000000
+Flat,3.0,1.0,Akobo,18000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,6.0,1.0,Oluyole Estate,170000000
+Duplex,4.0,1.0,Akobo,350000000
+Duplex,4.0,1.0,Akobo,265000000
+Duplex,7.0,1.0,Akobo,120000000
+Duplex,5.0,1.0,Akobo,265000000
+Bungalow,4.0,1.0,Akobo,75000000
+Bungalow,2.0,1.0,Idishin,18000000
+Duplex,3.0,1.0,Apata,8000000
+Bungalow,4.0,1.0,Akala Express,70000000
+Duplex,4.0,1.0,Jericho,350000000
+Duplex,6.0,1.0,Akobo,190000000
+Duplex,5.0,1.0,Akobo,380000000
+Duplex,4.0,1.0,Alalubosa,220000000
+Duplex,6.0,1.0,Ibadan,390000000
+Duplex,4.0,1.0,Bodija,180000000
+Flat,12.0,1.0,Ibadan,60000000
+Duplex,4.0,1.0,Jericho,250000000
+Duplex,4.0,1.0,Akobo,220000000
+House,8.0,1.0,Ologuneru,40000000
+Duplex,4.0,1.0,Jericho,180000000
+Duplex,4.0,1.0,Akala Express,150000000
+Bungalow,3.0,1.0,Ibadan,80000000
+Duplex,3.0,1.0,Oluyole Estate,90000000
+Bungalow,4.0,1.0,Akobo,20000000
+Duplex,4.0,1.0,Jericho,150000000
+Duplex,5.0,1.0,Akobo,220000000
+Bungalow,5.0,1.0,Akobo,150000000
+Bungalow,3.0,1.0,Moniya,65000000
+Duplex,5.0,1.0,Iyanganku,200000000
+Duplex,5.0,1.0,Oluyole Estate,300000000
+Duplex,5.0,1.0,Bodija,180000000
+Flat,2.0,1.0,Ologuneru,100000000
+Duplex,4.0,1.0,Basorun,155000000
+Duplex,3.0,1.0,Akobo,140000000
+Duplex,4.0,1.0,Bodija,200000000
+Bungalow,3.0,1.0,Akobo,48000000
+Bungalow,4.0,1.0,Ibadan,45000000
+Duplex,4.0,1.0,Agodi,320000000
+Bungalow,3.0,1.0,Akala Express,90000000
+Duplex,4.0,1.0,Akobo,150000000
+Bungalow,6.0,1.0,Akobo,45000000
+Flat,18.0,1.0,Akala Express,60000000
+Bungalow,2.0,1.0,Idishin,45000000
+Duplex,4.0,1.0,Jericho,160000000
+Duplex,3.0,1.0,Ologuneru,50000000
+Bungalow,4.0,1.0,Iyanganku,600000000
+Duplex,7.0,1.0,Jericho,350000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Flat,7.0,1.0,Ibadan,50000000
+Duplex,4.0,1.0,Akobo,220000000
+Bungalow,3.0,1.0,Apata,37000000
+Bungalow,3.0,1.0,Eleyele,65000000
+Duplex,3.0,1.0,Akobo,270000000
+Duplex,5.0,1.0,Oluyole Estate,185000000
+Duplex,4.0,1.0,Akobo,130000000
+House,4.0,1.0,Akobo,220000000
+Duplex,5.0,1.0,Moniya,120000000
+Bungalow,3.0,1.0,Iwo Road,18000000
+Duplex,4.0,1.0,Akala Express,90000000
+Duplex,4.0,1.0,Akobo,220000000
+Duplex,4.0,1.0,Akobo,170000000
+Duplex,6.0,1.0,Akobo,95000000
+Bungalow,3.0,1.0,Ologuneru,65000000
+House,4.0,1.0,Akobo,120000000
+Duplex,5.0,1.0,Agodi,125000000
+Bungalow,6.0,1.0,Akala Express,35000000
+Duplex,12.0,1.0,Jericho,200000000
+Bungalow,4.0,1.0,CHallenge / Ibadan,150000000
+Duplex,4.0,1.0,Oluyole Estate,310000000
+Duplex,4.0,1.0,Samonda,300000000
+Duplex,4.0,1.0,Jericho,350000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Bungalow,5.0,1.0,Akobo,200000000
+Flat,10.0,1.0,Akala Express,80000000
+Bungalow,4.0,1.0,Akala Express,80000000
+Duplex,4.0,1.0,Jericho,80000000
+Duplex,4.0,1.0,Jericho,175000000
+Duplex,4.0,1.0,Basorun,300000000
+Bungalow,4.0,1.0,Ojoo,25000000
+Flat,3.0,1.0,Akobo,70000000
+Duplex,4.0,1.0,Ibadan,200000000
+Duplex,5.0,1.0,Rind Road,170000000
+Duplex,4.0,1.0,Akobo,290000000
+Other,2.0,1.0,Rind Road,70000000
+Duplex,10.0,1.0,Samonda,650000000
+Duplex,4.0,1.0,Akobo,210000000
+Flat,1.0,1.0,Basorun,12000000
+Flat,5.0,1.0,Akobo,250000000
+Bungalow,6.0,1.0,Alakia,45000000
+Duplex,4.0,1.0,Akobo,220000000
+Flat,4.0,1.0,Akobo,175000000
+Bungalow,4.0,1.0,Moniya,70000000
+Bungalow,3.0,1.0,Akala Express,45000000
+Bungalow,3.0,1.0,Akala Express,55000000
+Duplex,4.0,1.0,Jericho,165000000
+Flat,4.0,1.0,Ojoo,40000000
+Duplex,3.0,1.0,Akobo,140000000
+Duplex,4.0,1.0,Bodija,200000000
+Duplex,4.0,1.0,Jericho,220000000
+Duplex,5.0,1.0,Agodi,200000000
+Duplex,4.0,1.0,Idishin,185000000
+Duplex,4.0,1.0,Ibadan,200000000
+Duplex,5.0,1.0,Ibadan,150000000
+Flat,20.0,1.0,Ibadan,160000000
+Bungalow,4.0,1.0,Akala Express,60000000
+Duplex,2.0,1.0,Akobo,100000000
+House,3.0,1.0,Eleyele,60000000
+Flat,18.0,1.0,Ibadan,100000000
+Bungalow,4.0,1.0,Akobo,35000000
+Duplex,5.0,1.0,Bodija,200000000
+Duplex,6.0,1.0,Ibadan,65000000
+Duplex,4.0,1.0,Akobo,170000000
+Duplex,5.0,1.0,Akala Express,170000000
+Duplex,4.0,1.0,Iwo Road,25000000
+Flat,8.0,3.0,Idishin,35000000
+Duplex,5.0,1.0,Eleyele,350000000
+Bungalow,5.0,1.0,Odo Ona,35000000
+Bungalow,3.0,1.0,Akobo,75000000
+Bungalow,3.0,1.0,Apata,25000000
+Other,7.0,1.0,Ologuneru,65000000
+Duplex,4.0,1.0,Akobo,180000000
+Flat,14.0,1.0,Iwo Road,60000000
+Bungalow,3.0,1.0,Akobo,85000000
+Duplex,4.0,1.0,Ibadan,230000000
+Duplex,4.0,1.0,Jericho,170000000
+Duplex,5.0,1.0,Agodi,500000000
+Duplex,5.0,1.0,Basorun,200000000
+Duplex,4.0,1.0,Akobo,165000000
+House,4.0,1.0,Bodija,165000000
+Flat,6.0,1.0,Akobo,85000000
+Other,2.0,1.0,Rind Road,65000000
+Bungalow,4.0,1.0,Ibadan,90000000
+Duplex,4.0,1.0,Akobo,270000000
+Duplex,4.0,1.0,Jericho,170000000
+Duplex,4.0,1.0,Jericho,185000000
+Duplex,4.0,1.0,Akobo,210000000
+Duplex,5.0,1.0,Ojoo,140000000
+Bungalow,3.0,1.0,Akobo,80000000
+Bungalow,4.0,1.0,Iyanganku,550000000
+Bungalow,6.0,1.0,Ibadan,35000000
+Duplex,5.0,1.0,Akala Express,170000000
+Duplex,4.0,1.0,Akobo,270000000
+Flat,8.0,1.0,Akala Express,80000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,4.0,1.0,Jericho,240000000
+Bungalow,3.0,1.0,Iwo Road,70000000
+Other,8.0,1.0,Ibadan,160000000
+Duplex,7.0,1.0,Akala Express,160000000
+Duplex,4.0,1.0,Alalubosa,200000000
+House,16.0,1.0,Akobo,60000000
+Duplex,5.0,1.0,Oluyole Estate,180000000
+Flat,9.0,1.0,Akobo,350000000
+Duplex,4.0,1.0,Akobo,260000000
+Duplex,6.0,1.0,Oluyole Estate,299000000
+Bungalow,3.0,1.0,Apata,35000000
+Duplex,4.0,1.0,Akobo,350000000
+Duplex,4.0,1.0,Jericho,190000000
+Flat,4.0,2.0,Apata,20000000
+Bungalow,3.0,1.0,Iwo Road,28000000
+Flat,6.0,1.0,Akobo,32000000
+Duplex,4.0,1.0,Akobo,190000000
+Duplex,5.0,1.0,Ibadan,250000000
+Bungalow,3.0,1.0,Akobo,50000000
+Bungalow,3.0,1.0,Jericho,100000000
+Bungalow,3.0,1.0,Jericho,65000000
+Flat,7.0,1.0,Alakia,55000000
+Duplex,4.0,1.0,Basorun,170000000
+Bungalow,4.0,1.0,Akobo,20000000
+Flat,3.0,1.0,Ibadan,25000000
+Duplex,4.0,1.0,Akobo,230000000
+Duplex,5.0,1.0,Iyanganku,165000000
+Bungalow,5.0,1.0,Basorun,75000000
+Bungalow,5.0,1.0,Ibadan,65000000
+Duplex,4.0,1.0,Idishin,135000000
+Duplex,2.0,1.0,Bodija,120000000
+Duplex,4.0,1.0,Samonda,300000000
+Bungalow,3.0,1.0,Akala Express,15000000
+Duplex,5.0,1.0,Alakia,150000000
+Duplex,5.0,1.0,Agodi,200000000
+House,4.0,1.0,Akobo,120000000
+Bungalow,3.0,1.0,Eleyele,60000000
+Duplex,4.0,1.0,Bodija,170000000
+Duplex,4.0,1.0,Akobo,250000000
+Duplex,5.0,1.0,Dugbe (Onireke),185000000
+Duplex,5.0,1.0,Akala Express,70000000
+Duplex,4.0,1.0,Jericho,330000000
+House,4.0,1.0,Basorun,210000000
+Bungalow,3.0,1.0,Ibadan,33000000
+Flat,3.0,1.0,Akobo,135000000
+Duplex,4.0,1.0,Ibadan,180000000
+Bungalow,6.0,1.0,Ibadan,150000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Flat,4.0,1.0,Jericho,1000000000
+Flat,20.0,1.0,Agbowo,100000000
+Bungalow,4.0,1.0,Akobo,220000000
+Flat,3.0,1.0,Ologuneru,35000000
+Bungalow,3.0,1.0,Ibadan,65000000
+Duplex,5.0,1.0,Eleyele,300000000
+Duplex,4.0,1.0,Ibadan,170000000
+Flat,3.0,1.0,Old Bodija,120000000
+Duplex,4.0,1.0,Oluyole Estate,300000000
+Duplex,5.0,6.0,Akobo,150000000
+Duplex,3.0,1.0,Akobo,170000000
+Duplex,3.0,1.0,Akobo,170000000
+Duplex,4.0,1.0,Ibadan,200000000
+Bungalow,2.0,1.0,Agodi,280000000
+Bungalow,3.0,1.0,Idishin,20000000
+Duplex,5.0,1.0,Oluyole Estate,270000000
+Duplex,4.0,1.0,Akobo,450000000
+House,3.0,1.0,Akobo,50000000
+Duplex,8.0,1.0,Iyanganku,450000000
+Bungalow,3.0,1.0,Akala Express,85000000
+Bungalow,4.0,1.0,Ibadan,60000000
+Duplex,3.0,1.0,Apata,120000000
+Duplex,4.0,1.0,Akobo,270000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Duplex,7.0,1.0,Eleyele,300000000
+Duplex,5.0,1.0,Iyanganku,150000000
+Duplex,4.0,1.0,Basorun,230000000
+Bungalow,4.0,1.0,Akala Express,27000000
+Duplex,4.0,1.0,Oluyole Estate,310000000
+Duplex,4.0,1.0,Akobo,260000000
+Duplex,5.0,1.0,Akala Express,285000000
+Duplex,6.0,1.0,Akobo,250000000
+Other,2.0,1.0,Akala Express,60000000
+Duplex,3.0,1.0,Akobo,80000000
+Bungalow,4.0,1.0,Akala Express,90000000
+Bungalow,3.0,1.0,Akala Express,40000000
+Flat,2.0,1.0,Iyanganku,510000000
+Other,3.0,1.0,Rind Road,90000000
+Duplex,4.0,1.0,Agodi,200000000
+Bungalow,3.0,1.0,Akobo,75000000
+House,18.0,1.0,CHallenge / Ibadan,48000000
+Other,1.0,1.0,Basorun,12000000
+Bungalow,6.0,1.0,Apata,18000000
+Duplex,4.0,1.0,Rind Road,155000000
+Duplex,4.0,1.0,Oluyole Estate,160000000
+Duplex,4.0,1.0,Akobo,250000000
+Bungalow,3.0,1.0,Oluyole Estate,100000000
+Flat,4.0,1.0,Ojoo,40000000
+Bungalow,12.0,1.0,Bodija,650000000
+Bungalow,5.0,1.0,Rind Road,165000000
+Duplex,4.0,1.0,Alalubosa,220000000
+Duplex,5.0,1.0,Akobo,290000000
+Flat,6.0,1.0,Ibadan,27000000
+House,20.0,1.0,Oke Ado,50000000
+Duplex,11.0,1.0,Akala Express,185000000
+Bungalow,4.0,1.0,Idishin,25000000
+Bungalow,3.0,1.0,Iwo Road,18000000
+Duplex,4.0,1.0,Akobo,200000000
+Flat,3.0,1.0,Jericho,130000000
+Bungalow,4.0,1.0,Akala Express,85000000
+Bungalow,3.0,1.0,Akala Express,78000000
+Bungalow,3.0,1.0,Jericho,45000000
+Flat,18.0,1.0,Iwo Road,70000000
+Duplex,4.0,1.0,Akobo,200000000
+Duplex,4.0,1.0,Basorun,250000000
+Bungalow,2.0,1.0,Iwo Road,40000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Bungalow,5.0,1.0,Akobo,45000000
+Bungalow,3.0,1.0,Bodija,165000000
+Duplex,7.0,1.0,Ibadan,350000000
+Flat,2.0,1.0,Ologuneru,80000000
+Other,7.0,1.0,Ologuneru,65000000
+Duplex,5.0,1.0,Oluyole Estate,300000000
+Duplex,5.0,1.0,Agodi,320000000
+Duplex,4.0,1.0,Bodija,180000000
+Duplex,4.0,1.0,Iyanganku,145000000
+Duplex,5.0,1.0,Basorun,120000000
+House,5.0,1.0,Jericho,230000000
+Bungalow,4.0,1.0,Apata,18000000
+Duplex,2.0,1.0,Akobo,100000000
+Duplex,5.0,1.0,Agodi,250000000
+Duplex,4.0,1.0,Bodija,200000000
+Duplex,5.0,1.0,Jericho,220000000
+Duplex,5.0,1.0,Jericho,250000000
+Bungalow,4.0,1.0,Iyanganku,550000000
+Bungalow,4.0,1.0,Oluyole Estate,30000000
+Flat,2.0,1.0,Adeoyo,65000000
+Bungalow,4.0,1.0,Akobo,220000000
+Duplex,5.0,1.0,Oluyole Estate,330000000
+Duplex,4.0,1.0,Akobo,270000000
+Duplex,5.0,1.0,Ibadan,290000000
+Duplex,5.0,1.0,Jericho,230000000
+Duplex,4.0,1.0,Ologuneru,70000000
+Flat,6.0,1.0,Ibadan Polytechnic/University,14000000
+Bungalow,3.0,1.0,Moniya,55000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,4.0,1.0,Akobo,270000000
+Duplex,5.0,1.0,Ojoo,140000000
+Duplex,4.0,1.0,Bodija,220000000
+Duplex,10.0,1.0,Alakia,150000000
+Duplex,3.0,1.0,Akobo,230000000
+Bungalow,3.0,1.0,Oluyole Estate,40000000
+Flat,3.0,1.0,Soka,16000000
+Bungalow,4.0,1.0,Akala Express,27000000
+Duplex,4.0,1.0,Akobo,250000000
+Duplex,7.0,1.0,Akobo,85000000
+Duplex,11.0,1.0,Jericho,350000000
+Bungalow,3.0,1.0,Oluyole Estate,70000000
+Duplex,4.0,1.0,Jericho,220000000
+Bungalow,6.0,1.0,Akobo,50000000
+Bungalow,6.0,1.0,Ibadan,165000000
+Bungalow,2.0,1.0,Ibadan,25000000
+Duplex,4.0,1.0,Bodija,160000000
+Duplex,7.0,1.0,Akobo,450000000
+Duplex,2.0,1.0,Akobo,100000000
+Bungalow,3.0,1.0,Ibadan,100000000
+Bungalow,4.0,1.0,Jericho,65000000
+Flat,6.0,1.0,Akala Express,120000000
+Duplex,8.0,1.0,Alalubosa,300000000
+Bungalow,4.0,1.0,Akobo,20000000
+Bungalow,5.0,1.0,Akobo,60000000
+Duplex,20.0,1.0,Bodija,150000000
+Bungalow,3.0,1.0,Ibadan,45000000
+Duplex,4.0,1.0,Akobo,75000000
+Duplex,4.0,1.0,Oluyole Estate,280000000
+Bungalow,5.0,1.0,Ibadan,60000000
+Duplex,5.0,1.0,Akala Express,155000000
+Duplex,5.0,1.0,Ibadan,85000000
+House,4.0,1.0,Akobo,350000000
+Flat,8.0,1.0,Alakia,100000000
+Bungalow,5.0,1.0,Akobo,55000000
+Duplex,5.0,1.0,Akobo,320000000
+Bungalow,4.0,1.0,Akobo,69500000
+Bungalow,3.0,1.0,Akala Express,10000000
+Duplex,5.0,1.0,Ibadan,250000000
+Duplex,4.0,1.0,Ibadan,250000000
+Bungalow,7.0,1.0,Bodija,75000000
+Bungalow,3.0,1.0,Bodija,165000000
+Flat,8.0,1.0,Apata,45000000
+Bungalow,3.0,1.0,Akobo,30000000
+Duplex,4.0,1.0,Akobo,175000000
+House,8.0,1.0,Ologuneru,110000000
+Duplex,5.0,1.0,Akobo,155000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+Other,13.0,1.0,Akala Express,47000000
+Other,5.0,1.0,Oluyole Estate,80000000
+Duplex,3.0,1.0,Akobo,230000000
+Duplex,4.0,1.0,Akobo,350000000
+Bungalow,2.0,1.0,Ologuneru,25000000
+Bungalow,4.0,1.0,Basorun,65000000
+Duplex,6.0,1.0,Akobo,150000000
+Duplex,4.0,1.0,Oluyole Estate,300000000
+Duplex,7.0,1.0,Akala Express,40000000
+Bungalow,7.0,1.0,Akobo,200000000
+Duplex,4.0,1.0,Akobo,150000000
+Bungalow,3.0,1.0,Ibadan,17000000
+Duplex,5.0,1.0,Akobo,270000000
+Bungalow,4.0,1.0,Akala Express,85000000
+Duplex,4.0,1.0,Akobo,130000000
+Duplex,6.0,1.0,Akobo,185000000
+Bungalow,7.0,1.0,Ibadan Polytechnic/University,30000000
+Duplex,5.0,1.0,Jericho,170000000
+Duplex,10.0,1.0,Oluyole Estate,400000000
+Duplex,5.0,1.0,Ibadan,170000000
+Duplex,4.0,1.0,Akobo,210000000
+Bungalow,3.0,1.0,Akala Express,48000000
+Bungalow,3.0,1.0,Akala Express,75000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Flat,8.0,1.0,Akobo,60000000
+Duplex,4.0,1.0,Bodija,90000000
+Flat,7.0,1.0,Ibadan,75000000
+Bungalow,4.0,1.0,Bodija,180000000
+Duplex,4.0,1.0,Agodi,250000000
+Duplex,4.0,1.0,Oluyole Estate,220000000
+Duplex,4.0,1.0,Ibadan,300000000
+Other,3.0,1.0,Ibadan,25000000
+Duplex,4.0,1.0,Akobo,170000000
+Duplex,4.0,1.0,Oluyole Estate,400000000
+Bungalow,7.0,1.0,CHallenge / Ibadan,18000000
+Flat,2.0,1.0,Bodija,95000000
+Duplex,4.0,1.0,Akobo,180000000
+Duplex,5.0,1.0,Ibadan,160000000
+Duplex,4.0,1.0,Ibadan,140000000
+Flat,12.0,1.0,Alakia,27000000
+Bungalow,3.0,1.0,Akala Express,45000000
+Bungalow,8.0,1.0,Pdinjo,8500000
+Bungalow,4.0,1.0,Ibadan,30000000
+Duplex,4.0,1.0,Jericho,180000000
+House,8.0,1.0,Akala Express,35000000
+Duplex,10.0,1.0,Samonda,650000000
+Bungalow,4.0,1.0,Akobo,85000000
+Flat,4.0,1.0,Ojoo,40000000
+Bungalow,6.0,1.0,Akobo,30000000
+Duplex,4.0,1.0,Ibadan,185000000
+Bungalow,3.0,1.0,Jericho,95000000
+Duplex,4.0,1.0,Oluyole Estate,220000000
+Bungalow,3.0,1.0,Moniya,55000000
+Bungalow,3.0,1.0,Akobo,50000000
+House,5.0,1.0,Bodija,120000000
+Bungalow,6.0,1.0,Ibadan,35000000
+Bungalow,5.0,1.0,Akobo,75000000
+Flat,8.0,1.0,Iwo Road,55000000
+Duplex,4.0,1.0,Akobo,190000000
+Duplex,4.0,1.0,Akobo,180000000
+House,5.0,1.0,Akobo,140000000
+Flat,12.0,4.0,Alakia,45000000
+Flat,11.0,1.0,Ibadan,48000000
+Duplex,3.0,1.0,Ibadan,230000000
+Duplex,6.0,1.0,Ojoo,160000000
+Bungalow,6.0,1.0,Moniya,50000000
+Duplex,4.0,1.0,Ojoo,65000000
+Duplex,4.0,1.0,Akobo,100000000
+Duplex,5.0,1.0,Akobo,195000000
+Bungalow,4.0,1.0,Akobo,60000000
+Bungalow,4.0,1.0,Akobo,40000000
+Other,7.0,1.0,Ologuneru,65000000
+Flat,20.0,1.0,Agodi,90000000
+Bungalow,4.0,1.0,Akobo,45000000
+Bungalow,7.0,1.0,Akobo,45000000
+Duplex,4.0,1.0,Akobo,150000000
+Duplex,8.0,1.0,Bodija,280000000
+Duplex,5.0,1.0,Ojoo,140000000
+Bungalow,3.0,1.0,Akobo,28000000
+Duplex,5.0,1.0,Oluyole Estate,150000000
+Duplex,5.0,1.0,Bodija,130000000
+Flat,12.0,1.0,Akobo,180000000
+Duplex,8.0,1.0,Ibadan Polytechnic/University,60000000
+Duplex,5.0,1.0,Oluyole Estate,300000000
+Bungalow,3.0,4.0,Iwo Road,45000000
+Duplex,6.0,1.0,Agodi,190000000
+Duplex,9.0,1.0,Basorun,100000000
+Bungalow,4.0,1.0,Akobo,45000000
+Duplex,4.0,1.0,Dugbe (Onireke),160000000
+House,5.0,1.0,Agodi,500000000
+Flat,12.0,1.0,Alakia,30000000
+Bungalow,4.0,1.0,Akobo,65000000
+Flat,4.0,1.0,Iwo Road,25000000
+Flat,12.0,1.0,Akobo,75000000
+Bungalow,4.0,1.0,Akobo,35000000
+Flat,1.0,1.0,Ibadan Polytechnic/University,34000000
+Duplex,5.0,1.0,Akobo,175000000
+House,4.0,1.0,Akobo,70000000
+Duplex,6.0,1.0,Ojoo,85000000
+Bungalow,3.0,1.0,Akobo,65000000
+Duplex,4.0,1.0,Oluyole Estate,185000000
+Bungalow,3.0,1.0,Akobo,25000000
+Duplex,4.0,1.0,Oluyole Estate,210000000
+Duplex,5.0,1.0,Akobo,150000000
+Flat,11.0,1.0,Ibadan Polytechnic/University,40000000
+Duplex,5.0,1.0,Akobo,200000000
+Flat,16.0,1.0,Ibadan,35000000
+Duplex,3.0,1.0,Agodi,170000000
+Bungalow,7.0,1.0,Akobo,35000000
+Bungalow,3.0,1.0,Jericho,100000000
+Bungalow,6.0,1.0,Akobo,40000000
+Bungalow,3.0,1.0,Ibadan,45000000
+Duplex,5.0,1.0,Oluyole Estate,160000000
+Duplex,6.0,1.0,Ojoo,140000000
+Duplex,6.0,1.0,Ojoo,140000000
+Duplex,5.0,1.0,Akobo,200000000
+Flat,4.0,1.0,Alakia,40000000
+Bungalow,3.0,1.0,Jericho,75000000
+Bungalow,5.0,1.0,Bodija,60000000
+Bungalow,4.0,1.0,Akobo,20000000
+Bungalow,4.0,1.0,Akobo,75000000
+House,5.0,1.0,Basorun,185000000
+Other,6.0,1.0,Moniya,110000000
+Flat,4.0,1.0,Ojoo,25000000
+Bungalow,6.0,1.0,Akobo,40000000
+Duplex,6.0,1.0,Akobo,90000000
+Duplex,4.0,1.0,Jericho,270000000
+Duplex,4.0,1.0,Bodija,100000000
+Duplex,4.0,1.0,Bodija,180000000
+Bungalow,4.0,1.0,Basorun,50000000
+Flat,12.0,1.0,Ologuneru,65000000
+Duplex,5.0,1.0,Adeoyo,125000000
+Duplex,3.0,1.0,Ibadan,60000000
+Duplex,4.0,1.0,Ibadan,180000000
+Duplex,4.0,1.0,Bodija,200000000
+Duplex,4.0,1.0,Ibadan,125000000
+Bungalow,4.0,1.0,Akala Express,40000000
+Bungalow,3.0,1.0,Ibadan,60000000
+Duplex,9.0,1.0,Alakia,85000000
+Flat,20.0,1.0,Moniya,250000000
+Bungalow,3.0,1.0,Jericho,75000000
+Duplex,6.0,1.0,Akobo,180000000
+Duplex,4.0,1.0,Akobo,110000000
+Duplex,5.0,1.0,Oluyole Estate,250000000
+House,5.0,1.0,Iwo Road,40000000
+House,6.0,1.0,Akobo,400000000
+Bungalow,5.0,1.0,Ibadan,25000000
+Bungalow,4.0,1.0,Basorun,95000000
+Flat,5.0,1.0,Moniya,40000000
+House,5.0,1.0,Basorun,120000000
+Bungalow,4.0,1.0,Akobo,75000000
+Duplex,4.0,1.0,Oluyole Estate,300000000
+Bungalow,4.0,1.0,Ibadan,30000000
+Duplex,5.0,1.0,Bodija,180000000
+Flat,12.0,1.0,Oluyole Estate,90000000
+Duplex,3.0,1.0,Akobo,250000000
+Duplex,5.0,1.0,Akobo,120000000
+Duplex,5.0,1.0,Ojoo,70000000
+Flat,6.0,1.0,Iwo Road,25000000
+Duplex,4.0,1.0,Oluyole Estate,330000000
+Duplex,5.0,1.0,Akobo,120000000
+Duplex,4.0,1.0,Basorun,170000000
+Bungalow,3.0,1.0,Ibadan,50000000
+Bungalow,4.0,1.0,Iwo Road,35000000
+Bungalow,3.0,1.0,Ologuneru,60000000
+Duplex,5.0,1.0,Akobo,200000000
+Duplex,3.0,1.0,Akobo,135000000
+Duplex,5.0,1.0,Iwo Road,92000000
+Duplex,4.0,1.0,Jericho,250000000
+Bungalow,4.0,1.0,Akobo,85000000
+Duplex,8.0,1.0,Alakia,160000000
+Duplex,5.0,1.0,Oluyole Estate,270000000
+Duplex,4.0,1.0,Basorun,250000000
+Duplex,5.0,1.0,Agodi,133000000
+Bungalow,5.0,1.0,Ologuneru,43000000
+Flat,4.0,1.0,Jericho,180000000
+Duplex,5.0,1.0,Bodija,220000000
+House,3.0,1.0,Akobo,43000000
+Duplex,4.0,1.0,Oluyole Estate,150000000
+Duplex,4.0,1.0,Jericho,200000000
+House,6.0,1.0,Akobo,50000000
+Duplex,9.0,1.0,Alalubosa,280000000
+Duplex,6.0,1.0,Akobo,190000000
+Duplex,5.0,1.0,Akobo,160000000
+Duplex,4.0,1.0,Bodija,130000000
+Duplex,9.0,1.0,Iwo Road,160000000
+Flat,12.0,1.0,Bodija,90000000
+Bungalow,3.0,1.0,Moniya,55000000
+Bungalow,6.0,1.0,Bodija,85000000
+Bungalow,3.0,1.0,Akobo,35000000
+Duplex,4.0,1.0,Jericho,170000000
+Flat,4.0,1.0,Ojoo,40000000
+Duplex,5.0,1.0,Akobo,170000000
+Bungalow,3.0,1.0,Akobo,25000000
+House,4.0,4.0,Ibadan,100000000
+Duplex,3.0,1.0,Akobo,120000000
+Bungalow,5.0,1.0,Basorun,60000000
+Bungalow,3.0,1.0,Jericho,50000000
+Duplex,4.0,1.0,Bodija,150000000
+Bungalow,4.0,1.0,Akobo,85000000

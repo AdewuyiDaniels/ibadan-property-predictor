@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-g">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExpertListing Property Price Predictor</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        form {
+            background: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            box-sizing: border-box; /* Important */
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 4px;
+            background-color: #3498db;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 4px;
+            background-color: #eafaf1;
+            border: 1px solid #b3e0c8;
+            text-align: center;
+            font-size: 1.2em;
+            display: none; /* Hidden by default */
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+            display: none; /* Hidden by default */
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>ExpertListingLimited</h1>
+    <h2>Ibadan Property Price Predictor</h2>
+
+    <form id="prediction-form">
+        <label for="property-type">Property Type</label>
+        <select id="property-type" name="Property_Type" required>
+            <!-- Options will be populated by JavaScript -->
+        </select>
+
+        <label for="location">Location</label>
+        <select id="location" name="Location" required>
+            <!-- Options will be populated by JavaScript -->
+        </select>
+
+        <label for="bedrooms">Number of Bedrooms</label>
+        <input type="number" id="bedrooms" name="Bedrooms" min="1" max="20" value="3" required>
+
+        <label for="bathrooms">Number of Bathrooms</label>
+        <input type="number" id="bathrooms" name="Bathrooms" min="1" max="10" value="2" required>
+
+        <button type="submit">Predict Price</button>
+    </form>
+
+    <div id="spinner" class="spinner"></div>
+    <div id="result"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const API_URL = window.location.origin; // Assumes backend is on the same host
+            const form = document.getElementById('prediction-form');
+            const resultDiv = document.getElementById('result');
+            const spinner = document.getElementById('spinner');
+            const propertyTypeSelect = document.getElementById('property-type');
+            const locationSelect = document.getElementById('location');
+
+            // --- 1. Populate Dropdowns ---
+            async function populateDropdowns() {
+                try {
+                    const response = await fetch(`${API_URL}/form-data`);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const data = await response.json();
+
+                    // Populate Property Types
+                    data.property_types.forEach(ptype => {
+                        const option = new Option(ptype, ptype);
+                        propertyTypeSelect.add(option);
+                    });
+
+                    // Populate Locations
+                    data.locations.forEach(loc => {
+                        const option = new Option(loc, loc);
+                        locationSelect.add(option);
+                    });
+
+                } catch (error) {
+                    console.error("Failed to fetch form data:", error);
+                    resultDiv.textContent = 'Error: Could not load form data. Please refresh the page.';
+                    resultDiv.style.backgroundColor = '#f8d7da';
+                    resultDiv.style.borderColor = '#f5c6cb';
+                    resultDiv.style.display = 'block';
+                }
+            }
+
+            // --- 2. Handle Form Submission ---
+            form.addEventListener('submit', async function(event) {
+                event.preventDefault();
+                spinner.style.display = 'block';
+                resultDiv.style.display = 'none';
+
+                const formData = new FormData(form);
+                const data = {
+                    Property_Type: formData.get('Property_Type'),
+                    Location: formData.get('Location'),
+                    Bedrooms: parseInt(formData.get('Bedrooms'), 10),
+                    Bathrooms: parseInt(formData.get('Bathrooms'), 10),
+                };
+
+                try {
+                    const response = await fetch(`${API_URL}/predict`, {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(data),
+                    });
+
+                    spinner.style.display = 'none';
+
+                    if (!response.ok) {
+                         const errorData = await response.json();
+                         throw new Error(errorData.detail || `HTTP error! status: ${response.status}`);
+                    }
+
+                    const result = await response.json();
+                    const formattedPrice = new Intl.NumberFormat('en-NG', { style: 'currency', currency: 'NGN' }).format(result.predicted_price_ngn);
+
+                    resultDiv.textContent = `Predicted Price: ${formattedPrice}`;
+                    resultDiv.style.backgroundColor = '#eafaf1';
+                    resultDiv.style.borderColor = '#b3e0c8';
+                    resultDiv.style.display = 'block';
+
+                } catch (error) {
+                    spinner.style.display = 'none';
+                    resultDiv.textContent = `Error: ${error.message}`;
+                    resultDiv.style.backgroundColor = '#f8d7da';
+                    resultDiv.style.borderColor = '#f5c6cb';
+                    resultDiv.style.display = 'block';
+                }
+            });
+
+            // --- Initial Load ---
+            populateDropdowns();
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+Exploratory Data Analysis Summary
+===================================
+
+1. Dataframe Info:
+Rows: 970, Columns: 5
+Data Types and Non-Null Counts:
+- Property_Type: object, 970 non-null
+- Bedrooms: float64, 970 non-null
+- Bathrooms: float64, 970 non-null
+- Location: object, 970 non-null
+- Price: int64, 970 non-null
+
+2. Summary Statistics for Numerical Columns:
+         Bedrooms   Bathrooms         Price
+count  970.000000  970.000000  9.700000e+02
+mean     4.807216    1.047423  1.426597e+08
+std      2.836252    0.408651  1.157794e+08
+min      1.000000    1.000000  3.500000e+06
+25%      3.000000    1.000000  5.500000e+07
+50%      4.000000    1.000000  1.200000e+08
+75%      5.000000    1.000000  2.000000e+08
+max     20.000000    6.000000  1.000000e+09
+
+3. Distribution of Property Types:
+Property_Type
+Duplex      496
+Bungalow    269
+Flat        124
+House        52
+Other        29
+
+4. Top 15 Most Common Locations:
+Location
+Akobo             233
+Ibadan            129
+Akala Express      81
+Oluyole Estate     77
+Jericho            61
+Bodija             60
+Ologuneru          36
+Iwo Road           32
+Basorun            31
+Agodi              30
+Ojoo               27
+Moniya             17
+Apata              17
+Idishin            17
+Eleyele            16
+
+5. Correlation Matrix:
+           Bedrooms  Bathrooms     Price
+Bedrooms   1.000000  -0.008131  0.031322
+Bathrooms -0.008131   1.000000 -0.065203
+Price      0.031322  -0.065203  1.000000
+
+===================================
+EDA Complete.
